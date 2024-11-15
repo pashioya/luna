@@ -14,7 +14,6 @@
 ### Privacy & Security
 - **Local data storage** options to safeguard user information
 - Minimal collection of personal data
-- No third-party advertising involvement
 - User-friendly data deletion process
 - Granular sharing permissions for user control
 
